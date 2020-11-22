@@ -1,9 +1,0 @@
-.idea
-.vscode
-.classpath
-.project
-*.iml
-target/
-log/
-.gitattributes
-.settings/
