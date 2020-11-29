@@ -1075,7 +1075,7 @@
         $('.js-addwish-b2').each(function() {
             var nameProduct = $(this).parent().parent().find('.js-name-b2').html();
             $(this).on('click', function() {
-                swal(nameProduct, "is added to wishlist !", "success");
+                swal(nameProduct, "已加入收藏 !", "success");
 
                 $(this).addClass('js-addedwish-b2');
                 $(this).off('click');
