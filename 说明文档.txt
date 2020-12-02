@@ -1,0 +1,9 @@
+# 源代码说明文档
+
+附件给出的是航集市网页的代码，主要就是前端设计的部分。用浏览器打开可以进入网页，用记事本打开可以看到源代码。
+
+目录下每个文件对应的界面设计：index.html—网站主页，product.html
+
+- 网站集市页面，是shopping-cart.html
+
+- 网站购物车页面，login.html- 网站登录页面，register.html- 网站注册页面，faq.html- 网站帮助页面，contact.html- 网站联系页面
